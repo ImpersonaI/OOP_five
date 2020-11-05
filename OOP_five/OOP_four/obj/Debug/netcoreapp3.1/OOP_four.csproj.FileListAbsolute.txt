@@ -1,0 +1,39 @@
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.exe
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.deps.json
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_four\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_four\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.genruntimeconfig.cache
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.exe
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.deps.json
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_four — копия (2)\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.genruntimeconfig.cache
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.exe
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.deps.json
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_five\OOP_four\bin\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.dll
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.pdb
+C:\Users\Роман\source\repos\OOP_five\OOP_four\obj\Debug\netcoreapp3.1\OOP_four.genruntimeconfig.cache
